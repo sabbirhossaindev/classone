@@ -1,0 +1,22 @@
+1 xampp setup
+
+https://www.youtube.com/watch?v=IpZ3vnde54M&list=PLX7CHjb-dXZDhEO6ODT2KBqrmgSy92k1z&index=1
+whatch: 2 time.
+https://www.youtube.com/watch?v=JXB6g9iTIZk&list=PLX7CHjb-dXZDhEO6ODT2KBqrmgSy92k1z&index=2
+https://www.youtube.com/watch?v=e10-iCDuBV4&list=PLX7CHjb-dXZDhEO6ODT2KBqrmgSy92k1z&index=3
+
+3 time. 
+দেখবেন 
+খাতায় লিখবেন । 
+পি.সি প্রাকটিস করবেন 
+
+syntax:....
+My Self Show (echo) 
+.php 
+<?php
+
+?>
+
+......HW.....
+2. function/method (Library , 2.  user define ) 
+3. echo/ print , var_dump() , print_r()
